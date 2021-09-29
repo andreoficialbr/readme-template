@@ -25,35 +25,18 @@
 
 ## Índice
 
-<details open="open">
-  <summary>Índice</summary>
-  <ol>
-    <li>
-      <a href="#sobre-a-aplicação">Sobre a aplicação</a>
-      <ul>
-        <li><a href="#principais-tecnologias">Principais tecnologias</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#instalação">Instalação</a>
-      <ul>
-        <li><a href="#pré-requisitos">Pré Requisitos</a></li>
-        <li><a href="#como-instalar">Como instalar</a></li>
-        <li><a href="#como-desinstalar">Como desinstalar</a></li>
-      </ul>
-    </li>
-    <li><a href="#como-utilizar">Como utilizar</a></li>
-    <li>
-      <a href="#build-local">Build Local</a>
-      <ul>
-        <li><a href="#pré-requisitos-1">Pré Requisitos</a></li>
-        <li><a href="#como-executar">Como executar</a></li>
-      </ul>
-    </li>
-    <li><a href="#como-contribuir">Como contribuir</a></li>
-    <li><a href="#licença">Licença</a></li>
-  </ol>
-</details>
+1. [Sobre a aplicação](#sobre-a-aplicação)
+    - [Principais tecnologias](#principais-tecnologias)
+2. [Instalação](#instalação)
+    - [Pré Requisitos](#pré-requisitos)
+    - [Como instalar](#como-instalar)
+    - [Como desinstalar](#como-desinstalar)
+3. [Como utilizar](#como-utilizar)
+4. [Build Local](#build-local)
+    - [Pré Requisitos](#pré-requisitos)
+    - [Como executar](#como-executar)
+5. [Como contribuir](#como-contribuir)
+6. [Licença](#licença)
 
 ## Sobre a aplicação
 
