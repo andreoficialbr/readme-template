@@ -128,3 +128,4 @@ Forneça instruções para que as pessoas saibam como contribuir para o projeto.
 Informe a licença de códido utilizada pelo projeto.
 
 ## salvando alterações
+* uso do comando got restore
