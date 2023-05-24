@@ -129,3 +129,5 @@ Informe a licença de códido utilizada pelo projeto.
 
 ## salvando alterações
 * uso do comando got restore
+
+## adicionar comando git push
