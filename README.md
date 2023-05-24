@@ -131,3 +131,4 @@ Informe a licença de códido utilizada pelo projeto.
 * uso do comando got restore
 
 ## adicionar comando git push
+* uso do comando gt pull
